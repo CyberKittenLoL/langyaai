@@ -2,7 +2,7 @@
 
 console.log("ABC");
 
-alert("3nd version");
+alert("4nd version");
 // document.addEventListener("DOMContentLoaded", () => {
 //});
 
